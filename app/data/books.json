@@ -77,6 +77,30 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "id": "1764008870298",
+      "title": "The Power of Learning",
+      "author": "Ghaid Hamdan",
+      "price": 39.99,
+      "isbn": "123-456-789",
+      "genre": [
+        "Education",
+        "Motivation"
+      ],
+      "tags": [
+        "learning",
+        "self-improvement"
+      ],
+      "datePublished": "2024-01-12",
+      "pages": 300,
+      "language": "English",
+      "publisher": "Amana Press",
+      "rating": 4.5,
+      "reviewCount": 20,
+      "inStock": true,
+      "featured": true,
+      "image": "/images/test-book.jpg"
     }
   ]
 }
