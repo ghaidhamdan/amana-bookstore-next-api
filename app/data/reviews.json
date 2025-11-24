@@ -118,6 +118,15 @@
       "comment": "This book is absolutely amazing! The content is highly informative and the structure is perfectly clear. Highly recommend it to everyone.",
       "title": "A truly inspiring read",
       "date": "2025-11-24T18:40:22.859Z"
+    },
+    {
+      "id": "1764013161633",
+      "bookId": "1764012857718",
+      "reviewer": "Sarah M.",
+      "rating": 5,
+      "comment": "A truly captivating blend of historical depth and heart-pounding suspense. Lina Al-Fahad masterfully weaves a complex mystery into the ancient setting. The pacing was perfect, and the twist ending was completely unexpected. A must-read for fans of historical thrillers!",
+      "title": "Masterpiece of Historical Suspense",
+      "date": "2025-11-24T19:39:21.633Z"
     }
   ]
 }

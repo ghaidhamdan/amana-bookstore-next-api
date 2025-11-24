@@ -101,6 +101,32 @@
       "inStock": true,
       "featured": true,
       "image": "/images/test-book.jpg"
+    },
+    {
+      "id": "1764012857718",
+      "title": "Secrets of the Ancient City",
+      "author": "Lina Al-Fahad",
+      "price": 24.5,
+      "isbn": "978-012-345678-9",
+      "genre": [
+        "Mystery",
+        "Historical Fiction",
+        "Thriller"
+      ],
+      "tags": [
+        "archaeology",
+        "ancient history",
+        "suspense"
+      ],
+      "datePublished": "2023-11-05",
+      "pages": 450,
+      "language": "Arabic",
+      "publisher": "Desert Rose Publishing",
+      "rating": 4.8,
+      "reviewCount": 95,
+      "inStock": false,
+      "featured": false,
+      "image": "/images/ancient-city-cover.jpg"
     }
   ]
 }

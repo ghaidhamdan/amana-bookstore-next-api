@@ -8,14 +8,14 @@ function readReviews() {
   const raw = fs.readFileSync(reviewsPath, "utf-8");
   return JSON.parse(raw);
 }
-
+// http://localhost:3000/api/books/2/reviews
 export async function GET(request, context) {
   const { id } = await context.params;
 
   const data = readReviews();
   const reviews = data.reviews;
 
-  // فلترة المراجعات حسب رقم الكتاب
+
   const bookReviews = reviews.filter(r => String(r.bookId) === String(id));
 
   return new Response(JSON.stringify(bookReviews), {
